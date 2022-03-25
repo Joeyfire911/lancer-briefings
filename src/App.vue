@@ -92,7 +92,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Blinkgate Repair",
           "status": "start"
         },
       ],
@@ -140,54 +140,38 @@ export default {
       ],
       "npcs": [
         {
-          "name": "Snakeman",
-          "affiliation": "Mirrorsmoke Mercenary Company",
-          "pronouns": "He/Him",
-          "notes": "DELTA-ECHO-ECHO-ZULU's primary report"
+          "name": "Orpheus",
+          "affiliation": "Union Auxillary Corps",
+          "pronouns": "They/Them",
+          "notes": "The transport ships NHP and your Eye in the sky."
         },
         {
-          "name": "Brava Hadura",
-          "affiliation": "Evergreen",
+          "name": "Winter",
+          "affiliation": "Union Auxillary Corps",
           "pronouns": "She/Her",
-          "notes": "Captain of the Local Militia"
+          "notes": "A Humonculous built to manage the cryogenics bay, something has been off about her."
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
+        "planet": "P3-Blinkgate",
+        "year": "5016u",
+        "system": "P3-412",
+        "gate": "P3-Prime",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
+        "headerTitle": "Union",
+        "headerSubtitle": "Auxillary Corp",
+        "subheaderTitle": "Blinkgate Repair",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "clocks": [
         {
-          "name": "Positive",
-          "description": "This is a description of a positive clock.",
-          "help": "Having more segments filled in will make things easier for you during later missions.",
-          "color": "#7DBBBB",
-          "value": 2,
-          "max": 6,
-        },
-        {
-          "name": "Negative",
-          "description": "This is a description of a negative clock.",
-          "help": "Having more segments filled in will make things harder for you during later missions.",
+          "name": "Time",
+          "description": "How much longer can Orpheus hold out?",
+          "help": "When this clock hits zero the mission will result in failure",
           "color": "#FD7777",
-          "value": 2,
-          "max": 3,
+          "value": 6,
+          "max": 8,
         },
-        {
-          "name": "Player Project",
-          "description": "This is a description of a Player Project clock.",
-          "help": "Filling all the segments will grant Player a new power.",
-          "color": "#3CB043",
-          "value": 0,
-          "max": 5,
-        }
       ],
       "options": {
         "eventsMarkdownPerMission": true,
