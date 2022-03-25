@@ -147,9 +147,9 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
+        "headerTitle": "Union",
+        "headerSubtitle": "Auxillery Corp.",
+        "subheaderTitle": "Emergency Repair",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "options":{
