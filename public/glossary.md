@@ -1,3 +1,3 @@
-**Hercynia** - Planetoid that the MSMC has been sub-contracted to investigate.
+**NHP** - A sentient machine mind shackled to human subjectivity. Be careful with them, theyre touchy.
 
-**SecComm** - Age of the Second Committee.
+**SecComm** - Age of the Second Committee. 
