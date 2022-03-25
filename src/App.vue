@@ -106,12 +106,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Nano-Sun",
+          "alias": "Senatorious Armstrong",
+          "code": "b7cc4795-e301-41d2-a4a4-a6f8e998ca18//ecf5c7f3-a3dd-4e1a-9eba-2670401d0180",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Fist Of The Patriot"
         },
         {
           "callsign": "Kal",
