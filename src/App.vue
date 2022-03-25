@@ -95,7 +95,12 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Blinkgate-Repair",
+          "status": "start"
+        },
+           {
+          "slug": "002",
+          "name": "Test",
           "status": "start"
         },
       ],
