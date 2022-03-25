@@ -148,7 +148,7 @@ export default {
         "gate": "P3-Prime",
         "ring": "Atlas-Line",
         "headerTitle": "Union",
-        "headerSubtitle": "Auxillery Corp.",
+        "headerSubtitle": "Auxiliary Corps",
         "subheaderTitle": "Emergency Repair",
         "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
