@@ -122,7 +122,7 @@ export default {
           "code": "c9b2c383-682d-4969-bc67-59174e8e465f//5d5696df-8f42-4eab-9eed-a0c3db8c1f56",
           "corpro": "GMS",
           "frame": "Sagarmatha",
-          "mech": ":)"
+          "mech": "Mech"
         },
         {
           "callsign": "Depussy",
