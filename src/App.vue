@@ -158,7 +158,7 @@ export default {
       "clocks": [
         {
           "name": "Time",
-          "description": "How much longer can Orpheus I hold out?",
+          "description": "How much longer can I hold out?",
           "help": "When this clock hits zero the mission will result in failure",
           "color": "#FD7777",
           "value": 6,
