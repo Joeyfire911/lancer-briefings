@@ -86,7 +86,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
@@ -94,11 +94,6 @@ export default {
           "slug": "001",
           "name": "Blinkgate Repair",
           "status": "start"
-        },
-         {
-          "slug": "002",
-          "name": "test",
-          "status": "failure"
         },
       ],
       "pilots": [
