@@ -95,6 +95,11 @@ export default {
           "name": "Blinkgate Repair",
           "status": "start"
         },
+         {
+          "slug": "002",
+          "name": "test",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
