@@ -1,4 +1,4 @@
-Good with a wrench from a young age, Roth had always had an affinity for the mechanical. Spending his formative years in the $mid-sized-settlement repairing anything he could get his hands on. Starting with basic farming equipment, transport vehicles’, even getting the chance to work on some of the older mechs that could still be found on the planet. 
+Good with a wrench from a young age, Roth had always had an affinity for the mechanical. Spending his formative years in the mid-sized-settlement repairing anything he could get his hands on. Starting with basic farming equipment, transport vehicles’, even getting the chance to work on some of the older mechs that could still be found on the planet. 
 
 It was not a life without some excitement. A passion in the community shared by many in the age range of Roth was racing. The fairly harmless, but not quite legal activity was mostly just an excuse to show off whatever uncommon prints of cars anyone could get their hands on. Ranging from the vintage builds of millennia past, and the experimental prototype’s of the soon to be present.
 
