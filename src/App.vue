@@ -129,6 +129,14 @@ export default {
           "frame": "Sagarmatha",
           "mech": "SF71H"
         },
+   {
+          "callsign": "LOOKOUT",
+          "alias": "Jeac",
+          "code": "e03e82a5-0aa4-460a-9e0a-d9a1473d173a",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "O'Doyle"
+        },
       ],
       "npcs": [
         {
