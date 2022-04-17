@@ -169,7 +169,7 @@ export default {
           "description": "How much longer can I hold out?",
           "help": "When this clock hits zero the mission will result in failure",
           "color": "#FD7777",
-          "value": 5,
+          "value": 1,
           "max": 8,
         },
       ],
