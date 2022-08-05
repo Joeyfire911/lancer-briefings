@@ -93,7 +93,7 @@ export default {
         {
           "slug": "001",
           "name": "Blinkgate Repair",
-          "status": "complete"
+          "status": "success"
         },        
         {
           "slug": "002",
