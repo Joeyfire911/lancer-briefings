@@ -177,10 +177,10 @@ export default {
       "clocks": [
         {
           "name": "Time",
-          "description": "How much longer can I hold out?",
-          "help": "When this clock hits zero the mission will result in failure",
+          "description": "Take all the time you need.",
+          "help": "Is it counting up or down?",
           "color": "#FD7777",
-          "value": 1,
+          "value": 4,
           "max": 8,
         },
       ],
@@ -205,8 +205,8 @@ export default {
   computed: {
     mainTabTitle() {
       if (this.options.mainPanel === "pilot") return "Pilot Roster"
-      if (this.options.mainPanel === "npc") return "Persons Registry"
-      if (this.options.mainPanel === "glossary") return "Lexicon"
+      if (this.options.mainPanel === "npc") return "Characters"
+      if (this.options.mainPanel === "glossary") return "Glossary"
       if (this.options.mainPanel === "clock") return "Clocks"
     },
     mainTabIcon() {
