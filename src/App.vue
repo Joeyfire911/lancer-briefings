@@ -156,6 +156,12 @@ export default {
           "pronouns": "She/Her",
           "notes": "A Humonculous built to manage the cryogenics bay, something has been off about her."
         },
+         {
+          "name": "Asmodeus",
+          "affiliation": "Ex Seccomm",
+          "pronouns": "She/Her",
+          "notes": "A turncoat from Seccomm's forces, a valuable ally."
+        },
       ],
       "header": {
         "planet": "P3-Blinkgate",
